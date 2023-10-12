@@ -6,6 +6,7 @@ public class hello {
 
 		
 		System.out.print(b);
+		System.out.print(a);
 		
 		
 	}
